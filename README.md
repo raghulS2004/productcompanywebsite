@@ -725,6 +725,18 @@ Publish the website in the given URL.
 
 ### Home Page:
 
+![1](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/b10873a4-2161-4232-9243-936c16d2004b)
+### Products Page:
+![2](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/22686729-6550-4de8-9032-5f6529c60cef)
+![3](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/3b90454c-f4ee-4baa-9f62-36fce1307542)
+### People Page:
+![4](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/2d62610e-5720-46b2-9f61-5f089edebf47)
+![5](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/d3115d2c-f29b-4b31-9bd9-225751eea861)
+![6](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/5aed0169-e342-4da3-9a78-e5bf705ef87b)
+![7](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/bea33eb7-c413-429f-8886-70869393c06f)
+![8](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/9df521eb-f06d-4da8-b5a1-e39bc476f126)
+### Contact Page:
+![9](https://github.com/raghulS2004/productcompanywebsite/assets/122069938/675f0120-fd44-43c2-869b-b34cd506a531)
 
 
 ## Result:
